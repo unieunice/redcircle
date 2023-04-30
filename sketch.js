@@ -5,7 +5,7 @@ var particles = [];
 var gravity = -0.025;
 
 function setup() {
-  createCanvas(800, 1000);
+  createCanvas(1000, 1000);
   noStroke();
 }
 
